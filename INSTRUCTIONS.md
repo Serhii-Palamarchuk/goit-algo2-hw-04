@@ -102,4 +102,4 @@ python task2_trie.py
 
 ## Автор
 
-Виконано в рамках навчання в GoIT Neoversity
+Сергій Паламарчук. Виконано в рамках навчання в GoIT Neoversity
