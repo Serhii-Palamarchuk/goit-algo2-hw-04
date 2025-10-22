@@ -102,6 +102,9 @@ python create_zip.py
 
 ---
 
-**Автор**: Palamarchuk Serhii  
-**Дата**: 22.10.2025  
-**GitHub**: https://github.com/Serhii-Palamarchuk/goit-algo2-hw-04
+**Palamarchuk Serhii**  
+GoIT Neoversity - Design and Analysis of Algorithms  
+Модуль: "Просунуті структури для оптимізації та пошуку"  
+Дата: 22.10.2025
+
+GitHub Repository: https://github.com/Serhii-Palamarchuk/goit-algo2-hw-04

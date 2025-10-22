@@ -308,5 +308,7 @@
 ---
 
 **Дата створення звіту**: 22.10.2025
-**Автор**: Palamarchuk Serhii
-**Курс**: GoIT Neoversity - Design and Analysis of Algorithms
+
+**Palamarchuk Serhii**  
+GoIT Neoversity - Design and Analysis of Algorithms  
+Модуль: "Просунуті структури для оптимізації та пошуку"

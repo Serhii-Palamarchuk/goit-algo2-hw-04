@@ -102,4 +102,7 @@ python task2_trie.py
 
 ## Автор
 
-Сергій Паламарчук. Виконано в рамках навчання в GoIT Neoversity
+**Palamarchuk Serhii**  
+GoIT Neoversity - Design and Analysis of Algorithms  
+Модуль: "Просунуті структури для оптимізації та пошуку"  
+Дата: 22.10.2025

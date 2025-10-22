@@ -149,8 +149,10 @@ goit-algo2-hw-04/
 
 ## Автор
 
-Виконано в рамках навчання в GoIT Neoversity
-Модуль: "Просунуті структури для оптимізації та пошуку"
+**Palamarchuk Serhii**  
+GoIT Neoversity - Design and Analysis of Algorithms  
+Модуль: "Просунуті структури для оптимізації та пошуку"  
+Дата: 22.10.2025
 
 ---
 
